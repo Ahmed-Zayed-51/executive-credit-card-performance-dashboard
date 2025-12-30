@@ -26,3 +26,18 @@ An executive-level Power BI dashboard providing comprehensive insights into cred
 - CSV Dataset
 
 ## Project Structure
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](assets/executive-overview.jpg)
+
+### Transactions
+![Transactions](assets/transactions.jpg)
+
+### Customers
+![Customers](assets/customers.jpg)
+
+### Insights & Opportunities
+![Insights](assets/insights.jpg)
+

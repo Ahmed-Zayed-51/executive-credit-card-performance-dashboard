@@ -47,5 +47,5 @@ An executive-level Power BI dashboard providing comprehensive insights into cred
 
 ## Disclaimer
 This project is shared for portfolio and educational purposes only.
-All analysis, visuals, and design were created by eng\ Ahmed Zayed.
+All analysis, visuals, and design were created by Eng\ Ahmed Zayed.
 

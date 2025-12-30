@@ -1,0 +1,96 @@
+{
+  "name": "Credit Card Pro Theme",
+  "dataColors": [
+    "#1F6FEB",
+    "#F59E0B",
+    "#10B981",
+    "#EF4444",
+    "#8B5CF6",
+    "#06B6D4",
+    "#F97316",
+    "#84CC16",
+    "#E11D48",
+    "#64748B"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#111827",
+  "tableAccent": "#1F6FEB",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 12,
+            "color": {
+              "solid": {
+                "color": "#111827"
+              }
+            }
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#E5E7EB"
+              }
+            }
+          }
+        ],
+        "shadow": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#000000"
+              }
+            },
+            "transparency": 85,
+            "angle": 45,
+            "distance": 2,
+            "blur": 6
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#111827"
+              }
+            },
+            "fontFamily": "Segoe UI",
+            "fontSize": 10
+          }
+        ]
+      }
+    }
+  },
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 28
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 14
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10
+    }
+  }
+}

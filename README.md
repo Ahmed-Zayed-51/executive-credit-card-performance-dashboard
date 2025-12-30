@@ -29,15 +29,20 @@ An executive-level Power BI dashboard providing comprehensive insights into cred
 
 ## Dashboard Preview
 
-### Executive Overview
+![Cover](assets/Cover.jpg)
+
+## Dashboard Pages
+
+### 1) Executive Overview
 ![Executive Overview](assets/executive-overview.jpg)
 
-### Transactions
+### 2) Transactions
 ![Transactions](assets/transactions.jpg)
 
-### Customers
+### 3) Customers
 ![Customers](assets/customers.jpg)
 
-### Insights & Opportunities
-![Insights](assets/insights.jpg)
+### 4) Insights & Opportunities
+![Insights & Opportunities](assets/insights.jpg)
+
 

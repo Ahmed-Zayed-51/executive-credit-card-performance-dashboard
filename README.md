@@ -45,4 +45,7 @@ An executive-level Power BI dashboard providing comprehensive insights into cred
 ### 4) Insights & Opportunities
 ![Insights & Opportunities](assets/insights.jpg)
 
+## Disclaimer
+This project is shared for portfolio and educational purposes only.
+All analysis, visuals, and design were created by eng\ Ahmed Zayed.
 
